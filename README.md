@@ -16,5 +16,8 @@ I'm a frontend engineer in Alibaba-Eleme.
 <br />
 <br />
 
-![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=oanakiaja&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+### Stats
+![Oanakiaja's github stats](https://github-readme-stats.vercel.app/api?username=oanakiaja&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+
+### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact)
