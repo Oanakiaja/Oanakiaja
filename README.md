@@ -1,5 +1,6 @@
-<img alt='header-img' width='500px' src='https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg' />
+<img alt='header-img' width='100%' src='https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg' />
 
+<div>
 ### Hi there, I'm Oanakiaja, you can call me 叶丸 or 景天. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a frontend engineer in Alibaba-Eleme.   :coffee:
 <img align="left" alt="alibaba-group" width="26px" src="https://avatars3.githubusercontent.com/u/1961952?s=200&v=4" />
@@ -15,8 +16,8 @@ I'm a frontend engineer in Alibaba-Eleme.   :coffee:
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <br />
 <br />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Oanakiaja&show_icons=true&theme=material-palenight" alt="Oanakiaja's github stats" />
+</div>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact" alt="Top Langs" />
 
-### Stats :saxophone: & Top Langs :hearts:
-![Oanakiaja's github stats](https://github-readme-stats.vercel.app/api?username=oanakiaja&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact)
+> SEU 
