@@ -19,6 +19,7 @@ I'm a frontend engineer in Alibaba-Eleme.   :coffee:
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Oanakiaja&show_icons=true&theme=material-palenight" alt="Oanakiaja's github stats" />
 </div>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact" alt="Top Langs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact" alt="Top Langs" />
+</div>
 
 > SEU student in school
