@@ -17,6 +17,6 @@ I'm a frontend engineer in Alibaba-Eleme.   :coffee:
 
 ### Stats & Top Langs 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Oanakiaja&show_icons=true&theme=material-palenight" alt="Oanakiaja's github stats" />
+<img img width="45%" src="https://github-readme-stats.vercel.app/api?username=Oanakiaja&show_icons=true&theme=material-palenight" alt="Oanakiaja's github stats" />
 </div>
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact" alt="Top Langs" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact" alt="Top Langs" />
