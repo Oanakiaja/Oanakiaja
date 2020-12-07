@@ -1,4 +1,4 @@
-![mitsuha](https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg)
+<img alt='header-img' width='500px' src='https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg' />
 
 ### Hi there, I'm Oanakiaja, you can call me 叶丸 or 景天. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a frontend engineer in Alibaba-Eleme.   :coffee:
@@ -16,8 +16,7 @@ I'm a frontend engineer in Alibaba-Eleme.   :coffee:
 <br />
 <br />
 
-### Stats :saxophone:
+### Stats :saxophone: & Top Langs :hearts:
 ![Oanakiaja's github stats](https://github-readme-stats.vercel.app/api?username=oanakiaja&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-### Top Langs :hearts:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact)
