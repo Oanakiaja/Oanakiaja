@@ -1,10 +1,10 @@
 ![mitsuha](https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg)
 
 ### Hi there, I'm Oanakiaja, you can call me 叶丸 or 景天. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a frontend engineer in Alibaba-Eleme. 
+I'm a frontend engineer in Alibaba-Eleme.   :coffee:
 <img align="left" alt="alibaba-group" width="26px" src="https://avatars3.githubusercontent.com/u/1961952?s=200&v=4" />
 <img align="left" alt="eleme" width="26px" src="https://avatars2.githubusercontent.com/u/12810740?s=200&v=4" />
-### Tech-Stack
+### Tech-Stack :computer:
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -16,8 +16,8 @@ I'm a frontend engineer in Alibaba-Eleme.
 <br />
 <br />
 
-### Stats
+### Stats :saxophone:
 ![Oanakiaja's github stats](https://github-readme-stats.vercel.app/api?username=oanakiaja&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-### Top Langs
+### Top Langs :hearts:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oanakiaja&layout=compact)
