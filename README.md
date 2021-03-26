@@ -1,14 +1,14 @@
 <img alt='header-img' width='80%' src='https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg' />
 
 ### Hi there, I'm Oanakiaja, you can call me 叶丸 or 景天. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<div>
-I used to work as a front-end intern in Alibaba-Eleme.   :coffee:
-<img align="left" alt="alibaba-group" width="26px" src="https://avatars3.githubusercontent.com/u/1961952?s=200&v=4" />
-<img align="left" alt="eleme" width="26px" src="https://avatars2.githubusercontent.com/u/12810740?s=200&v=4" /> 
+<div stlye="display:flex">
+ <img  alt="alibaba-group" width="26px" src="https://avatars3.githubusercontent.com/u/1961952?s=200&v=4" />
+<img alt="eleme" width="26px" src="https://avatars2.githubusercontent.com/u/12810740?s=200&v=4" /> 
+<span> I used to work as a front-end intern in Alibaba-Eleme.   :coffee: </span>
 </div>
-<div>
-I'll work as a front-end engineer in Video Architecture Department of ByteDance
-<img align="left" alt="bytedance" width="26px" src="https://avatars.githubusercontent.com/u/4158466?s=40&v=4" />
+<div stlye="display:flex">
+<img  alt="bytedance" width="26px" src="https://avatars.githubusercontent.com/u/4158466?s=40&v=4" />
+<span> I'll work as a front-end engineer in Video Architecture Department of ByteDance </span>
 </div>
 
 <div>
