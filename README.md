@@ -1,5 +1,3 @@
-<img alt='header-img' width='80%' src='https://raw.githubusercontent.com/Oanakiaja/Oanakiaja/main/assets/mitsuha.jpeg' />
-
 ### Hi there, I'm Oanakiaja, you can call me 叶丸 or 景天. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div stlye="display:flex">
  <img  alt="alibaba-group" width="26px" src="https://avatars3.githubusercontent.com/u/1961952?s=200&v=4" />
