@@ -6,7 +6,7 @@
 </div>
 <div stlye="display:flex">
 <img  alt="bytedance" width="26px" src="https://avatars.githubusercontent.com/u/4158466?s=40&v=4" />
-<span> I'll work as a front-end engineer in Video Architecture Department of ByteDance </span>
+<span> I'm working as a front-end engineer in Video Architecture Department of ByteDance </span>
 </div>
 
 <div>
