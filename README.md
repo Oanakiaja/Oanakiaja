@@ -1,7 +1,7 @@
 <p>
   <samp>
-    <a href="https://oanakiaja.vercel.app/">blog</a> .
-    <a href="https://twitter.com/oanakiaja">twitter</a>
+    <a href="https://oanakiaja.vercel.app/" target="_blank">blog</a> .
+    <a href="https://twitter.com/oanakiaja" target="_blank">twitter</a>
   </samp>
 </p>
 
@@ -19,7 +19,7 @@
 <ul>
   <li>
     <samp> 
-        <a href="https://go2type.vercel.app">
+        <a href="https://go2type.vercel.app" target="_blank">
           a small transpiler from go structure to typescript type 
         </a>
     </samp>
