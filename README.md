@@ -1,6 +1,6 @@
 <p>
   <samp>
-    <a href="https://oanakiaja.vercel.app/" target="_blank">blog</a> .
+    <a href="https://oanakiaja.tech/" target="_blank">blog</a> .
     <a href="https://twitter.com/oanakiaja" target="_blank">twitter</a>
   </samp>
 </p>
