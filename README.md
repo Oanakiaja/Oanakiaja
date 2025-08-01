@@ -6,6 +6,12 @@
 </p>
 
 <p>
+  <samp>
+    Buildiing Agentic Mobile Use
+  </samp>
+</p>
+
+<p>
   <s>
     <samp>
       Work almost all day, but open source all dream. 
