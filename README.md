@@ -5,10 +5,12 @@
   </samp>
 </p>
 
-<p>
-  <samp>
-    Buildiing Agentic Mobile Use
-  </samp>
+<p>  
+  <s>
+    <samp>
+      Buildiing Agentic Mobile Use (GUI Agent)
+    </samp>
+  </s>
 </p>
 
 <p>
@@ -16,23 +18,17 @@
     <samp>
       Work almost all day, but open source all dream. 
     </samp>
+  </s>
+</p>
+<p>
+    <samp>
+      Building Agent Infra, and Agent Imagine UI
+    </samp>
+</p>
+<p>
     <samp>
       Open Source at work
     </samp>
-  </s>
 </p>
-
-<samp>
-  Toys
-</samp>
-<ul>
-  <li>
-    <samp> 
-        <a href="https://go2type.vercel.app" target="_blank">
-          a small transpiler from go structure to typescript type 
-        </a>
-    </samp>
-  </li>
-</ul>
 
 
