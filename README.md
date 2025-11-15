@@ -26,9 +26,11 @@
     </samp>
 </p>
 <p>
+    <s>
     <samp>
       Open Source at work
     </samp>
+    </s>
 </p>
 
 
