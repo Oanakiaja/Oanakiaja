@@ -22,7 +22,7 @@
 </p>
 <p>
     <samp>
-      Building Agent Infra, and Agent Imagine UI
+      Building Agent Infra
     </samp>
 </p>
 <p>
