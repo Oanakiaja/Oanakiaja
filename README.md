@@ -18,4 +18,4 @@
         Building Agent Infra
       </samp>
   </p>
- <img src="./wechat-qr.jpg" width="200" alt="WeChat QR Code">
+ <img src="./wechat-qr.png" width="100" alt="WeChat QR Code">
