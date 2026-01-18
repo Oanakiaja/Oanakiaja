@@ -1,36 +1,21 @@
-<p>
-  <samp>
-    <a href="https://oanakiaja.tech/" target="_blank">blog</a> .
-    <a href="https://twitter.com/oanakiaja" target="_blank">twitter</a>
-  </samp>
-</p>
+  <p>
+    <samp>
+      <a href="https://oanakiaja.tech/" target="_blank">blog</a> .
+      <a href="https://twitter.com/oanakiaja" target="_blank">twitter</a> .
+      <a href="mailto:oanakiaja@gmail.com">email</a>
+    </samp>
+  </p>
 
-<p>  
-  <s>
-    <samp>
-      Buildiing Agentic Mobile Use (GUI Agent)
-    </samp>
-  </s>
-</p>
-
-<p>
-  <s>
-    <samp>
-      Work almost all day, but open source all dream. 
-    </samp>
-  </s>
-</p>
-<p>
-    <samp>
-      Building Agent Infra
-    </samp>
-</p>
-<p>
+  <p>
     <s>
-    <samp>
-      Open Source at work
-    </samp>
+      <samp>
+        Buildiing Agentic Mobile Use (GUI Agent)
+      </samp>
     </s>
-</p>
-
-
+  </p>
+  <p>
+      <samp>
+        Building Agent Infra
+      </samp>
+  </p>
+ <img src="./wechat-qr.png" width="200" alt="WeChat QR Code">
