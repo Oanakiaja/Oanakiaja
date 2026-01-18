@@ -2,8 +2,8 @@
     <samp>
       <a href="https://oanakiaja.tech/" target="_blank">blog</a> .
       <a href="https://twitter.com/oanakiaja" target="_blank">twitter</a> .
-      <a href="mailto:oanakiaja@gmail.com">email</a>
-      wechat: oanaki
+      <a href="mailto:oanakiaja@gmail.com">email</a> .
+      wechat(oanaki)
     </samp>
   </p>
 
